@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Cw0voUvwDFUFtgvVmpHZM1l4fx746kbzc6pPjpSCltI=",
+  "Source": "LMSWebAPI",
+  "BasePath": "_content/LMSWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
